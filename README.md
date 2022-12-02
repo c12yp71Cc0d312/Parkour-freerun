@@ -14,3 +14,5 @@ Shashwat T - 106119138
 
 ## Description
 First person open-world free-run parkour game
+
+Developed using https://github.com/Will-S-Dev/Unity-Parkour-Example as a base
